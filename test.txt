@@ -14,5 +14,5 @@ rekha
 abi
 aadhav
 
-master-vaishu
-master-saindhu
+test-vaishu
+test-saindhu
